@@ -2,36 +2,7 @@
 # 🌙 Baralho Cigano – Tarot da Dama da Noite
 
 ## Sumário Inteligente
-
-- [Cartas 1 a 4](#carta-1--o-cavaleiro---carta-2--o-trevo-)  
-  - [Carta 1 – O Cavaleiro 🏇 | Carta 2 – O Trevo 🍀](#carta-1--o-cavaleiro---carta-2--o-trevo-)  
-  - [Carta 3 – O Navio 🚢 | Carta 4 – A Casa 🏠](#carta-3--o-navio---carta-4--a-casa-)  
-- [Cartas 5 a 8](#carta-5--a-árvore---carta-6--as-nuvens-)  
-  - [Carta 5 – A Árvore 🌳 | Carta 6 – As Nuvens ☁️](#carta-5--a-árvore---carta-6--as-nuvens-)  
-  - [Carta 7 – A Cobra 🐍 | Carta 8 – O Caixão ⚰️](#carta-7--a-cobra---carta-8--o-caixão-)  
-- [Cartas 9 a 12](#carta-9--o-buquê---carta-10--a-foice-)  
-  - [Carta 9 – O Buquê 💐 | Carta 10 – A Foice ⚔️](#carta-9--o-buquê---carta-10--a-foice-)  
-  - [Carta 11 – O Chicote 🧹 | Carta 12 – Os Pássaros 🐦](#carta-11--o-chicote---carta-12--os-pássaros-)  
-- [Cartas 13 a 16](#carta-13--a-criança---carta-14--a-raposa-)  
-  - [Carta 13 – A Criança 👶 | Carta 14 – A Raposa 🦊](#carta-13--a-criança---carta-14--a-raposa-)  
-  - [Carta 15 – O Urso 🐻 | Carta 16 – A Estrela ⭐](#carta-15--o-urso---carta-16--a-estrela-)  
-- [Cartas 17 a 20](#carta-17--a-cegonha---carta-18--o-cachorro-)  
-  - [Carta 17 – A Cegonha 🐦 | Carta 18 – O Cachorro 🐕](#carta-17--a-cegonha---carta-18--o-cachorro-)  
-  - [Carta 19 – A Torre 🏰 | Carta 20 – O Jardim 🌳](#carta-19--a-torre---carta-20--o-jardim-)  
-- [Cartas 21 a 24](#carta-21--a-montanha---carta-22--o-caminho-)  
-  - [Carta 21 – A Montanha ⛰️ | Carta 22 – O Caminho 🛤️](#carta-21--a-montanha---carta-22--o-caminho-)  
-  - [Carta 23 – O Rato 🐀 | Carta 24 – O Coração ❤️](#carta-23--o-rato---carta-24--o-coração-)  
-- [Cartas 25 a 28](#carta-25--o-anel---carta-26--o-livro-)  
-  - [Carta 25 – O Anel 💍 | Carta 26 – O Livro 📖](#carta-25--o-anel---carta-26--o-livro-)  
-  - [Carta 27 – A Carta ✉️ | Carta 28 – O Homem 👨](#carta-27--a-carta---carta-28--o-homem-)  
-- [Cartas 29 a 32](#carta-29--a-mulher---carta-30--os-lírios-)  
-  - [Carta 29 – A Mulher 👩 | Carta 30 – Os Lírios 🌸](#carta-29--a-mulher---carta-30--os-lírios-)  
-  - [Carta 31 – O Sol ☀️ | Carta 32 – A Lua 🌙](#carta-31--o-sol---carta-32--a-lua-)  
-- [Cartas 33 a 36](#carta-33--a-chave---carta-34--o-peixe-)  
-  - [Carta 33 – A Chave 🔑 | Carta 34 – O Peixe 🐟](#carta-33--a-chave---carta-34--o-peixe-)  
-  - [Carta 35 – A Âncora ⚓ | Carta 36 – A Cruz ✝️](#carta-35--a-âncora---carta-36--a-cruz-)  
-- [Tutorial Simples](#-tutorial-simples-como-usar-o-baralho-cigano--tarot-da-dama-da-noite)
-
+~Um dia eu refaço o anterior estava com erro~
 ---
 
 ## 🃏 Carta 1 – O Cavaleiro 🏇 | 🃏 Carta 2 – O Trevo 🍀
